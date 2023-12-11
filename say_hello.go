@@ -1,5 +1,5 @@
 package go_sayHello
 
 func SayHello() string {
-	return "Hello"
+	return "Hello from go!"
 }
